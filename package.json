@@ -1,0 +1,30 @@
+{
+  "name": "compress-loader",
+  "version": "0.0.1",
+  "description": "compress-loader user mozjpeg to batch compress images",
+  "keywords": [
+    "webpack",
+    "loader",
+    "webpack-loader",
+    "compress",
+    "compress-loader"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "webpack": "1 || 2 || 3 || 4"
+  },
+  "peerDependencies": {
+    "webpack": "1 || 2 || 3 || 4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsonchou/compress-loader.git"
+  },
+  "homepage": "https://github.com/jsonchou/compress-loader",
+  "author": "jsonchou",
+  "license": "MIT",
+  "private": false
+}
